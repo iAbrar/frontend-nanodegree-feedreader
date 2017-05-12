@@ -16,6 +16,6 @@ I learn how to use Jasmine to write a number of tests against a pre-existing app
 this is my project [feed reader website](https://iabrar.github.io/frontend-nanodegree-feedreader/)
 
 ### Resourses I used them:
-1.[class list method](https://developer.mozilla.org/en/docs/Web/API/Element/classList)
-2.[getElementByClassName](https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp)
-3.[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [class list method](https://developer.mozilla.org/en/docs/Web/API/Element/classList)
+2. [getElementByClassName](https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp)
+3. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
