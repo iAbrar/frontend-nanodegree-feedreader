@@ -93,9 +93,8 @@ $(function () {
             loadFeed(0, done);
         });
 
-        it("there is a single .entry element within the .feed container", function (done) {
+        it("there is a single .entry element within the .feed container", function () {
             expect($('.feed .entry').length).toBeGreaterThan(0);
-            done();
         });
 
 
