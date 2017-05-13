@@ -13,7 +13,8 @@ In this project given a web-based application that reads RSS feeds. The original
 I learn how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 ## My project:
-this is my project [feed reader website](https://iabrar.github.io/frontend-nanodegree-feedreader/)
+### How to run:
+You can view the website from here [feed reader website](https://iabrar.github.io/frontend-nanodegree-feedreader/) or you can download or for this repository and run index.html with your browser.
 
 ### Resourses I used them:
 1. [class list method](https://developer.mozilla.org/en/docs/Web/API/Element/classList)
